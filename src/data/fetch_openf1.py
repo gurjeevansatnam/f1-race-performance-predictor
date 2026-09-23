@@ -27,20 +27,7 @@ df_stints = pd.DataFrame(data_stints)
 
 #merge laps and stints
 df_merged = pd.merge(df_laps, df_stints, on=["session_key", "driver_number"], how="left",suffixes=('_laps', '_stints'))
-
-df_merged = df_merged[
-    (df_merged["lap_number"] >= df_merged["lap_start"]) & (df_merged["lap_number"] <= df_merged["lap_end"])]
-
-
+df_merged = df_merged[(df_merged["lap_number"] >= df_merged["lap_start"]) & (df_merged["lap_number"] <= df_merged["lap_end"])]
 df_merged["tyre_age"] = (df_merged["tyre_age_at_start"] + (df_merged["lap_number"] - df_merged["lap_start"]))
 
 
-hamilton_data = df_merged[
-    df_merged["driver_number"] == 44
-]
-
-print(
-    hamilton_data[
-        ["lap_number", "lap_duration", "compound","tyre_age_at_start" ,"lap_start","tyre_age"]
-    ]
-)
