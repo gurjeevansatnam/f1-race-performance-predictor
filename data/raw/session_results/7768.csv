@@ -1,0 +1,21 @@
+position,driver_number,number_of_laps,dnf,dns,dsq,duration,gap_to_leader,meeting_key,session_key
+1,1,15,False,False,False,"[91.295, 90.503, 89.708]","[0.302, 0.221, 0.0]",1141,7768
+2,11,15,False,False,False,"[91.479, 90.746, 89.846]","[0.486, 0.464, 0.138]",1141,7768
+3,16,17,False,False,False,"[91.094, 90.282, 90.0]","[0.101, 0.0, 0.292]",1141,7768
+4,55,18,False,False,False,"[90.993, 90.515, 90.154]","[0.0, 0.233, 0.446]",1141,7768
+5,14,15,False,False,False,"[91.158, 90.645, 90.336]","[0.165, 0.363, 0.628]",1141,7768
+6,63,15,False,False,False,"[91.057, 90.507, 90.34]","[0.064, 0.225, 0.632]",1141,7768
+7,44,15,False,False,False,"[91.543, 90.513, 90.384]","[0.55, 0.231, 0.676]",1141,7768
+8,18,18,False,False,False,"[91.184, 91.127, 90.836]","[0.191, 0.845, 1.128]",1141,7768
+9,31,15,False,False,False,"[91.508, 90.914, 90.984]","[0.515, 0.632, 1.276]",1141,7768
+10,27,17,True,False,False,"[91.204, 90.809, None]","[0.211, 0.527, None]",1141,7768
+11,4,13,False,False,False,"[91.652, 91.381, None]","[0.659, 1.099, None]",1141,7768
+12,77,12,False,False,False,"[91.504, 91.443, None]","[0.511, 1.161, None]",1141,7768
+13,24,12,False,False,False,"[91.615, 91.473, None]","[0.622, 1.191, None]",1141,7768
+14,22,15,False,False,False,"[91.4, 92.51, None]","[0.407, 2.228, None]",1141,7768
+15,23,8,True,False,False,"[91.461, None, None]","[0.468, None, None]",1141,7768
+16,2,6,False,False,False,"[91.652, None, None]","[0.659, None, None]",1141,7768
+17,20,6,False,False,False,"[91.892, None, None]","[0.899, None, None]",1141,7768
+18,81,7,False,False,False,"[92.101, None, None]","[1.108, None, None]",1141,7768
+19,21,9,False,False,False,"[92.121, None, None]","[1.128, None, None]",1141,7768
+20,10,6,False,False,False,"[92.181, None, None]","[1.188, None, None]",1141,7768
