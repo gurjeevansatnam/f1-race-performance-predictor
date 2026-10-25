@@ -40,23 +40,6 @@ def fetch_session_data(start_year, end_year):
             fetch_data_for_session(session_key)
 
 
-def load_expected_sessions(start_year, end_year):
-    all_sessions = []
-
-    for year in range(start_year, end_year + 1):
-        session_file = (SESSIONS_DIR / f"{year}.csv")
-        df_sessions = pd.read_csv(session_file)
-        df_sessions = df_sessions[df_sessions["session_name"].isin(RELEVANT_SESSION_NAMES)].copy()
-        all_sessions.append(df_sessions)
-
-    df_sessions = pd.concat(all_sessions,ignore_index=True)
-
-    return df_sessions
-
-
-
-
-
 
 
 if __name__ == "__main__":
@@ -69,36 +52,6 @@ if __name__ == "__main__":
         END_YEAR
     )
 
-
-    load_expected_sessions(
-    START_YEAR,
-    END_YEAR)   
-
-    df_sessions = load_expected_sessions()
-
-    print(
-        df_sessions[
-            [
-                "session_key",
-                "country_name",
-                "session_name"
-            ]
-        ]
-    )
-
-    print(
-        f"\nTotal relevant sessions: "
-        f"{len(df_sessions)}"
-    )
-
-    print(
-        "\nSessions by type:"
-    )
-
-    print(
-        df_sessions["session_name"]
-        .value_counts()
-    )
 
     
 

@@ -32,7 +32,7 @@ def load_race_dates():
         all_sessions.append(df_races)
 
     df_race_dates = pd.concat(all_sessions, ignore_index=True)
-    return df_race_dates[["session_key","date_start"]]
+    return df_race_dates[["session_key","date_start","circuit_key","circuit_short_name"]]
 
 
 def build_historical_race_dataset():
