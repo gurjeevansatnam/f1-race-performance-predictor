@@ -14,21 +14,21 @@ There are two models:
 The prediction below updates itself every race weekend. A GitHub Actions job pulls the latest data from the OpenF1 API every 3 hours and switches from the pre- to the post-qualifying model as soon as the qualifying results are published.
 
 <!-- LIVE-PREDICTION:START -->
-## Live prediction: 2026 Austin
+## Live prediction: 2026 Mexico City
 
-**Predicted winner: Kimi ANTONELLI** (53% chance), predicted after qualifying using the post-qualifying model: grid position, gap to pole, qualifying Elo.
+**Predicted winner: Max VERSTAPPEN** (23% chance), predicted before qualifying using the pre-qualifying model: race Elo, recent qualifying form.
 
 | # | Driver | Team | Win chance |
 |---|---|---|---|
-| 1 | Kimi ANTONELLI | Mercedes | 53% |
-| 2 | Max VERSTAPPEN | Red Bull Racing | 20% |
-| 3 | Charles LECLERC | Ferrari | 9% |
-| 4 | Lewis HAMILTON | Ferrari | 6% |
-| 5 | Isack HADJAR | Red Bull Racing | 5% |
+| 1 | Max VERSTAPPEN | Red Bull Racing | 23% |
+| 2 | Kimi ANTONELLI | Mercedes | 19% |
+| 3 | Charles LECLERC | Ferrari | 15% |
+| 4 | Lewis HAMILTON | Ferrari | 12% |
+| 5 | Lando NORRIS | McLaren | 8% |
 
 ![Live prediction](results/live_prediction.png)
 
-_Updated automatically 25 Oct 2026 01:33 UTC_
+_Updated automatically 25 Oct 2026 23:18 UTC_
 <!-- LIVE-PREDICTION:END -->
 
 ## Results
