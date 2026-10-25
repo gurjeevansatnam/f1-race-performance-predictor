@@ -1,0 +1,5 @@
+model,winner_right,winner_in_top3,log_loss,right_2024,right_2025
+PRE baseline (last winner),0.25,0.25,2.9207,0.1667,0.3333
+PRE model,0.3333,0.7292,1.7046,0.3333,0.3333
+POST baseline (grid slot),0.5833,0.875,1.493,0.5,0.6667
+POST model,0.625,0.875,1.2797,0.5833,0.6667
