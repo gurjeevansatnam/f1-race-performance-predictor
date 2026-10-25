@@ -1,0 +1,12 @@
+features,winner_right,winner_in_top3,log_loss,right_2024,right_2025
+PRE baseline (last winner),0.25,0.25,2.9207,0.1667,0.3333
+PRE: race Elo only,0.3542,0.6458,1.7523,0.375,0.3333
+PRE: + recent qualifying (FINAL),0.3333,0.7292,1.7046,0.3333,0.3333
+PRE: + points form,0.2917,0.6667,1.8125,0.2917,0.2917
+PRE: + everything,0.2708,0.6667,1.8073,0.2917,0.25
+POST baseline (grid slot),0.5833,0.875,1.493,0.5,0.6667
+POST: grid position,0.5833,0.875,1.3644,0.5,0.6667
+POST: + gap to pole,0.5833,0.875,1.3348,0.5,0.6667
+POST: + qualifying Elo (FINAL),0.625,0.875,1.2797,0.5833,0.6667
+POST: + points form,0.5417,0.8958,1.3566,0.5417,0.5417
+POST: + everything,0.5625,0.875,1.3455,0.5833,0.5417

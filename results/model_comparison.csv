@@ -1,0 +1,4 @@
+model,winner_right,winner_in_top3,log_loss,right_2024,right_2025
+Conditional logit (FINAL),0.625,0.875,1.2797,0.5833,0.6667
+Logistic regression,0.625,0.875,1.2798,0.5833,0.6667
+XGBoost,0.6042,0.875,1.4349,0.5833,0.625
