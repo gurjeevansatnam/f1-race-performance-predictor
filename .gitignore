@@ -217,3 +217,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# data the models don't use (laps, tyres, weather) - too big for github
+data/raw/laps/
+data/raw/stints/
+data/raw/weather/
+data/processed/session_datasets/laps.csv
+data/processed/session_datasets/stints.csv
+data/processed/session_datasets/weather.csv
+
+# editor settings
+.vscode/
