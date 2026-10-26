@@ -7737,3 +7737,25 @@ RT,6,3.0,False,False,False,"[None, None, None]","[None, None, None]",1296,11384,
 20,23,9.0,False,False,False,"[96.967, None, None]","[1.938, None, None]",1297,11392,,2026,United States,Austin,Qualifying,Qualifying,2026-10-24 21:00:00+00:00
 21,11,9.0,False,False,False,"[97.433, None, None]","[2.404, None, None]",1297,11392,,2026,United States,Austin,Qualifying,Qualifying,2026-10-24 21:00:00+00:00
 22,77,9.0,False,False,False,"[97.523, None, None]","[2.494, None, None]",1297,11392,,2026,United States,Austin,Qualifying,Qualifying,2026-10-24 21:00:00+00:00
+1.0,12,56.0,False,False,False,5716.65,0,1297,11396,25.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+2.0,16,56.0,False,False,False,5729.728,13.078,1297,11396,18.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+3.0,3,56.0,False,False,False,5734.135,17.485,1297,11396,15.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+4.0,44,56.0,False,False,False,5735.165,18.515,1297,11396,12.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+5.0,1,56.0,False,False,False,5747.171,30.521,1297,11396,10.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+6.0,6,56.0,False,False,False,5751.023,34.373,1297,11396,8.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+7.0,81,56.0,False,False,False,5769.324,52.674,1297,11396,6.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+8.0,63,56.0,False,False,False,5770.953,54.303,1297,11396,4.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+9.0,30,56.0,False,False,False,5795.833,79.183,1297,11396,2.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+10.0,10,56.0,False,False,False,5804.166,87.516,1297,11396,1.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+11.0,27,56.0,False,False,False,5811.595,94.945,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+12.0,41,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+13.0,5,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+14.0,31,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+15.0,18,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+16.0,14,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+17.0,23,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+18.0,55,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+19.0,11,55.0,False,False,False,,+1 LAP,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+,77,48.0,True,False,False,,,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+,43,35.0,True,False,False,,,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+,87,24.0,True,False,False,,,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
