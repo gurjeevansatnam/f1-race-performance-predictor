@@ -7759,3 +7759,25 @@ RT,6,3.0,False,False,False,"[None, None, None]","[None, None, None]",1296,11384,
 ,77,48.0,True,False,False,,,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
 ,43,35.0,True,False,False,,,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
 ,87,24.0,True,False,False,,,1297,11396,0.0,2026,United States,Austin,Race,Race,2026-10-25 20:00:00+00:00
+1.0,44,20.0,False,False,False,"[77.341, 76.953, 76.514]","[0.0, 0.225, 0.0]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+2.0,63,22.0,False,False,False,"[77.659, 77.027, 76.523]","[0.318, 0.299, 0.009]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+3.0,16,24.0,False,False,False,"[77.506, 76.944, 76.633]","[0.165, 0.216, 0.119]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+4.0,3,14.0,False,False,False,"[77.942, 76.876, 76.692]","[0.601, 0.148, 0.178]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+5.0,12,24.0,False,False,False,"[77.918, 77.133, 76.707]","[0.577, 0.405, 0.193]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+6.0,1,21.0,False,False,False,"[77.733, 76.728, 76.824]","[0.392, 0.0, 0.31]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+7.0,6,20.0,False,False,False,"[77.385, 77.047, 76.9]","[0.044, 0.319, 0.386]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+8.0,41,21.0,False,False,False,"[78.21, 77.135, 77.117]","[0.869, 0.407, 0.603]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+9.0,10,20.0,False,False,False,"[78.194, 77.278, 77.153]","[0.853, 0.55, 0.639]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+10.0,27,19.0,False,False,False,"[77.868, 77.306, None]","[0.527, 0.578, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+11.0,43,14.0,False,False,False,"[78.517, 77.64, None]","[1.176, 0.912, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+12.0,81,17.0,False,False,False,"[77.659, 77.646, None]","[0.318, 0.918, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+13.0,5,19.0,False,False,False,"[77.727, 77.68, None]","[0.386, 0.952, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+14.0,87,18.0,False,False,False,"[78.083, 78.083, None]","[0.742, 1.355, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+15.0,55,18.0,False,False,False,"[78.521, 78.885, None]","[1.18, 2.157, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+16.0,23,12.0,False,False,False,"[78.63, None, None]","[1.289, None, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+17.0,14,4.0,False,False,False,"[78.908, None, None]","[1.567, None, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+18.0,50,10.0,False,False,False,"[78.958, None, None]","[1.617, None, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+19.0,18,10.0,False,False,False,"[79.072, None, None]","[1.731, None, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+20.0,11,9.0,False,False,False,"[79.105, None, None]","[1.764, None, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+21.0,77,9.0,False,False,False,"[79.852, None, None]","[2.511, None, None]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
+,30,0.0,False,False,False,"[None, 77.207, 77.029]","[None, 0.479, 0.515]",1298,11400,,2026,Mexico,Mexico City,Qualifying,Qualifying,2026-10-31 21:00:00+00:00
