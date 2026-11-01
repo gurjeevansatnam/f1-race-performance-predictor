@@ -16,19 +16,19 @@ The prediction below updates itself every race weekend. A GitHub Actions job pul
 <!-- LIVE-PREDICTION:START -->
 ## Live prediction: 2026 Mexico City
 
-**Predicted winner: Max VERSTAPPEN** (23% chance), predicted before qualifying using the pre-qualifying model: race Elo, recent qualifying form.
+**Predicted winner: Lewis HAMILTON** (48% chance), predicted after qualifying using the post-qualifying model: grid position, gap to pole, qualifying Elo.
 
 | # | Driver | Team | Win chance |
 |---|---|---|---|
-| 1 | Max VERSTAPPEN | Red Bull Racing | 23% |
-| 2 | Kimi ANTONELLI | Mercedes | 23% |
-| 3 | Charles LECLERC | Ferrari | 15% |
-| 4 | Lewis HAMILTON | Ferrari | 11% |
-| 5 | Lando NORRIS | McLaren | 7% |
+| 1 | Lewis HAMILTON | Ferrari | 48% |
+| 2 | George RUSSELL | Mercedes | 22% |
+| 3 | Charles LECLERC | Ferrari | 11% |
+| 4 | Max VERSTAPPEN | Red Bull Racing | 7% |
+| 5 | Kimi ANTONELLI | Mercedes | 5% |
 
 ![Live prediction](results/live_prediction.png)
 
-_Updated automatically 31 Oct 2026 19:20 UTC_
+_Updated automatically 01 Nov 2026 00:09 UTC_
 <!-- LIVE-PREDICTION:END -->
 
 ## Results
