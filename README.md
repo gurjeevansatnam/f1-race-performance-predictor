@@ -14,21 +14,21 @@ There are two models:
 The prediction below updates itself every race weekend. A GitHub Actions job pulls the latest data from the OpenF1 API every 3 hours and switches from the pre- to the post-qualifying model as soon as the qualifying results are published.
 
 <!-- LIVE-PREDICTION:START -->
-## Live prediction: 2026 Interlagos
+## Live prediction: 2026 Las Vegas
 
-**Predicted winner: Lando NORRIS** (62% chance), predicted after qualifying using the post-qualifying model: grid position, gap to pole, qualifying Elo.
+**Predicted winner: Max VERSTAPPEN** (26% chance), predicted before qualifying using the pre-qualifying model: race Elo, recent qualifying form.
 
 | # | Driver | Team | Win chance |
 |---|---|---|---|
-| 1 | Lando NORRIS | McLaren | 62% |
-| 2 | George RUSSELL | Mercedes | 24% |
-| 3 | Kimi ANTONELLI | Mercedes | 7% |
-| 4 | Charles LECLERC | Ferrari | 4% |
-| 5 | Liam LAWSON | Racing Bulls | 1% |
+| 1 | Max VERSTAPPEN | Red Bull Racing | 26% |
+| 2 | Kimi ANTONELLI | Mercedes | 21% |
+| 3 | Charles LECLERC | Ferrari | 17% |
+| 4 | Lewis HAMILTON | Ferrari | 15% |
+| 5 | Lando NORRIS | McLaren | 7% |
 
 ![Live prediction](results/live_prediction.png)
 
-_Updated automatically 08 Nov 2026 00:39 UTC_
+_Updated automatically 08 Nov 2026 22:09 UTC_
 <!-- LIVE-PREDICTION:END -->
 
 ## Results
