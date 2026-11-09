@@ -16,19 +16,19 @@ The prediction below updates itself every race weekend. A GitHub Actions job pul
 <!-- LIVE-PREDICTION:START -->
 ## Live prediction: 2026 Las Vegas
 
-**Predicted winner: Max VERSTAPPEN** (26% chance), predicted before qualifying using the pre-qualifying model: race Elo, recent qualifying form.
+**Predicted winner: Kimi ANTONELLI** (29% chance), predicted before qualifying using the pre-qualifying model: race Elo, recent qualifying form.
 
 | # | Driver | Team | Win chance |
 |---|---|---|---|
-| 1 | Max VERSTAPPEN | Red Bull Racing | 26% |
-| 2 | Kimi ANTONELLI | Mercedes | 21% |
-| 3 | Charles LECLERC | Ferrari | 17% |
-| 4 | Lewis HAMILTON | Ferrari | 15% |
-| 5 | Lando NORRIS | McLaren | 7% |
+| 1 | Kimi ANTONELLI | Mercedes | 29% |
+| 2 | Max VERSTAPPEN | Red Bull Racing | 22% |
+| 3 | Charles LECLERC | Ferrari | 13% |
+| 4 | Lando NORRIS | McLaren | 10% |
+| 5 | Lewis HAMILTON | Ferrari | 10% |
 
 ![Live prediction](results/live_prediction.png)
 
-_Updated automatically 08 Nov 2026 22:09 UTC_
+_Updated automatically 09 Nov 2026 06:36 UTC_
 <!-- LIVE-PREDICTION:END -->
 
 ## Results
