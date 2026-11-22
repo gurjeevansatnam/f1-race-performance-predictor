@@ -16,19 +16,19 @@ The prediction below updates itself every race weekend. A GitHub Actions job pul
 <!-- LIVE-PREDICTION:START -->
 ## Live prediction: 2026 Lusail
 
-**Predicted winner: Kimi ANTONELLI** (29% chance), predicted before qualifying using the pre-qualifying model: race Elo, recent qualifying form.
+**Predicted winner: Kimi ANTONELLI** (32% chance), predicted before qualifying using the pre-qualifying model: race Elo, recent qualifying form.
 
 | # | Driver | Team | Win chance |
 |---|---|---|---|
-| 1 | Kimi ANTONELLI | Mercedes | 29% |
-| 2 | Max VERSTAPPEN | Red Bull Racing | 22% |
-| 3 | Charles LECLERC | Ferrari | 13% |
-| 4 | Lando NORRIS | McLaren | 10% |
-| 5 | Lewis HAMILTON | Ferrari | 10% |
+| 1 | Kimi ANTONELLI | Mercedes | 32% |
+| 2 | Max VERSTAPPEN | Red Bull Racing | 25% |
+| 3 | Lando NORRIS | McLaren | 13% |
+| 4 | Charles LECLERC | Ferrari | 8% |
+| 5 | George RUSSELL | Mercedes | 7% |
 
 ![Live prediction](results/live_prediction.png)
 
-_Updated automatically 22 Nov 2026 11:29 UTC_
+_Updated automatically 22 Nov 2026 19:44 UTC_
 <!-- LIVE-PREDICTION:END -->
 
 ## Results
